@@ -61,6 +61,21 @@ const PROJECTS = [
     icon: "🏏"
   }
 
+  ,
+  {
+    id: "imdb-watchlist-recommender",
+    title: "IMDB Watchlist Recommendation Engine",
+    category: "personal",
+    shortDesc: "AI-powered engine that analyses your IMDB watchlist and surfaces personalised movie & show recommendations.",
+    fullDesc: "An AI-powered recommendation engine that digs into your IMDB watchlist to understand your taste — genres, directors, eras, themes — and surfaces movies and shows you're actually likely to enjoy. No more scrolling endlessly through streaming catalogues; just smart, personalised picks backed by data.",
+    tags: ["AI", "Recommendations", "Movies", "IMDB", "NLP"],
+    liveUrl: "https://beautiful-nasturtium-01caad.netlify.app/",
+    githubUrl: null,
+    featured: true,
+    status: "live",
+    icon: "🎬"
+  }
+
   // ─── Add new projects below this line ───────────────────────────────────────
   //
   // {
