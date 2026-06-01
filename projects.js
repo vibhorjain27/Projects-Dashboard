@@ -76,6 +76,39 @@ const PROJECTS = [
     icon: "🎬"
   }
 
+  ,
+  {
+    id: "pfl-financial-model",
+    title: "Poonawalla Fincorp — Financial Model",
+    category: "professional",
+    shortDesc: "Detailed financial model for Poonawalla Fincorp covering FY26–FY29E projections, DCF valuation, and target stock price.",
+    fullDesc: "A comprehensive bottom-up financial model for Poonawalla Fincorp (PFL) covering FY26–FY29E. Built from first principles — loan book growth, NIM evolution, credit cost assumptions, opex leverage, and capital adequacy — culminating in a full 3-statement model, DCF valuation, and a target stock price with upside/downside scenarios.",
+    tags: ["Excel", "Financial Modelling", "NBFC", "DCF", "Equity Research"],
+    liveUrl: null,       // paste Google Drive preview link here when ready
+    githubUrl: null,
+    featured: true,
+    status: "live",
+    icon: "📈",
+    confidential: true,
+    fileLabel: "Open Financial Model"
+  }
+  ,
+  {
+    id: "pfl-family-office-pitchdeck",
+    title: "Poonawalla Fincorp — Family Office Pitch Deck",
+    category: "professional",
+    shortDesc: "Equity raise pitch deck targeting family offices — investment thesis, growth story, and financials for Poonawalla Fincorp.",
+    fullDesc: "A polished equity raise pitch deck for Poonawalla Fincorp designed for family office audiences. Covers the investment thesis, NBFC sector tailwinds, PFL's competitive positioning, management quality, asset quality trends, growth runway, and a clear return framework — structured to support a capital raise conversation.",
+    tags: ["PowerPoint", "Pitch Deck", "Equity Raise", "NBFC", "Family Office"],
+    liveUrl: null,       // paste Google Drive preview link here when ready
+    githubUrl: null,
+    featured: true,
+    status: "live",
+    icon: "🏦",
+    confidential: true,
+    fileLabel: "Open Pitch Deck"
+  }
+
   // ─── Add new projects below this line ───────────────────────────────────────
   //
   // {
@@ -90,6 +123,8 @@ const PROJECTS = [
   //   featured: false,
   //   status: "live",
   //   icon: "🚀"
+  //   // confidential: true,       // add this + fileLabel to lock the project
+  //   // fileLabel: "Open Document"
   // },
 
 ];
