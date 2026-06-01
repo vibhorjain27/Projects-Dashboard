@@ -109,6 +109,23 @@ const PROJECTS = [
     fileLabel: "Open Pitch Deck"
   }
 
+  ,
+  {
+    id: "book-of-us",
+    title: "The Book of Us",
+    category: "personal",
+    shortDesc: "A data love story — analytics across 2.3 lakh WhatsApp messages, gifted as a hand-crafted digital book on her birthday.",
+    fullDesc: "Built as a birthday gift for Prachi — a beautifully designed digital book analyzing over 2.3 lakh WhatsApp messages exchanged over the years. Explores conversation patterns, most-used words, peak chat hours, emoji habits, and emotional arcs to tell the story of a relationship through data. One of a kind.",
+    tags: ["Python", "NLP", "Data Analytics", "WhatsApp", "Data Story"],
+    liveUrl: null,       // paste hosted URL here when ready (Netlify drop)
+    githubUrl: null,
+    featured: true,
+    status: "live",
+    icon: "📖",
+    confidential: true,
+    fileLabel: "Open the Book"
+  }
+
   // ─── Add new projects below this line ───────────────────────────────────────
   //
   // {
