@@ -84,7 +84,7 @@ const PROJECTS = [
     shortDesc: "Detailed financial model for Poonawalla Fincorp covering FY26–FY29E projections, DCF valuation, and target stock price.",
     fullDesc: "A comprehensive bottom-up financial model for Poonawalla Fincorp (PFL) covering FY26–FY29E. Built from first principles — loan book growth, NIM evolution, credit cost assumptions, opex leverage, and capital adequacy — culminating in a full 3-statement model, DCF valuation, and a target stock price with upside/downside scenarios.",
     tags: ["Excel", "Financial Modelling", "NBFC", "DCF", "Equity Research"],
-    liveUrl: null,       // paste Google Drive preview link here when ready
+    liveUrl: "https://docs.google.com/spreadsheets/d/1_-J4GZn1m1T5kPRDpTQbbS2m1EQ0p-m4/view",
     githubUrl: null,
     featured: true,
     status: "live",
@@ -100,7 +100,7 @@ const PROJECTS = [
     shortDesc: "Equity raise pitch deck targeting family offices — investment thesis, growth story, and financials for Poonawalla Fincorp.",
     fullDesc: "A polished equity raise pitch deck for Poonawalla Fincorp designed for family office audiences. Covers the investment thesis, NBFC sector tailwinds, PFL's competitive positioning, management quality, asset quality trends, growth runway, and a clear return framework — structured to support a capital raise conversation.",
     tags: ["PowerPoint", "Pitch Deck", "Equity Raise", "NBFC", "Family Office"],
-    liveUrl: null,       // paste Google Drive preview link here when ready
+    liveUrl: "https://docs.google.com/presentation/d/11jMWO8Z84zt2yIM_hSQ9bMdBNPfJ3XGu/view",
     githubUrl: null,
     featured: true,
     status: "live",
